@@ -1,1 +1,9 @@
-# Closest-furthest-points-of-an-ellipse
+### Closest-furthest-points-of-an-ellipse
+
+Implement the algorithm that computes the closest/further point of an ellipse with respect to a given 2D point. The input of the method is a 2D point, represented by coordinates u and v. 
+
+Step 1: Generate random ellipse parameters and draw the ellipse and the randomly selected 2D point. 
+Step 2: Develop the method 
+Step 3: Insert the closest/further points and the corresponding line segments into the plot.
+
+
