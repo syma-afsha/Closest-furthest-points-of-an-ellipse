@@ -10,4 +10,4 @@ Step 3: Insert the closest/further points and the corresponding line segments in
 
 
 ![Ellipse_with_Random_Point](https://github.com/syma-afsha/Closest-furthest-points-of-an-ellipse/blob/main/Ellipse_with_Random_Point.png)
-![]()
+![Closest_and_Farthest_Points_on_Ellipse](https://github.com/syma-afsha/Closest-furthest-points-of-an-ellipse/blob/main/Closest_and_Farthest_Points_on_Ellipse.png)
