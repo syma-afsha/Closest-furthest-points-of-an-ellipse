@@ -9,5 +9,5 @@ Step 2: Develop the method from [this PontEllipseDist webpage](https://cv.inf.el
 Step 3: Insert the closest/further points and the corresponding line segments into the plot.
 
 
-[Ellipse_with_Random_Point](https://github.com/syma-afsha/Closest-furthest-points-of-an-ellipse/blob/main/Ellipse_with_Random_Point.png)
-<img src="images/sample-image.png" alt="Sample Image" width="500" />
+![Ellipse_with_Random_Point](https://github.com/syma-afsha/Closest-furthest-points-of-an-ellipse/blob/main/Ellipse_with_Random_Point.png)
+![]()
